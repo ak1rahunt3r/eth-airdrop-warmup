@@ -1,6 +1,8 @@
 # eth-airdrop-warmup
 Make low-cost transactions on new ethereum accounts to avoid airdrop disqualification and increase airdrop chance.
 
+![alt text](https://github.com/ak1rahunt3r/eth-airdrop-warmup/blob/main/warmup.png?raw=true)
+
 ### Transaction types
 - Base bridge
 - Zora bridge
